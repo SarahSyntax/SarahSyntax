@@ -1,4 +1,4 @@
-## ✨Busy learning all the aspects of Github so I can utilize it properly.✨
+## In 2025 I'm: ✨Busy learning all the aspects of Github so I can utilize it properly.✨
 
 <!--
 **SarahSyntax/SarahSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
