@@ -1,5 +1,5 @@
 sarah@sarahsyntax:~$ whoami
-> built by trial and error | iterated
+> built by trial and error && iterated
 
 sarah@sarahsyntax:~$ logout
 
