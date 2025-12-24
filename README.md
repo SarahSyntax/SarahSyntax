@@ -1,16 +1,22 @@
-## In 2025 I'm: ✨Busy learning all the aspects of Github so I can utilize it properly.✨
+~$ whoami
+> built by trial and error
+> iterated
+~$ logout
+
+
+                      _..-'(                       )`-.._
+                   ./'. '||\\.       (\_/)       .//||` .`\.
+                ./'.|'.'||||\\|..    )O O(    ..|//||||`.`|.`\.
+             ./'..|'.|| |||||\`````` '`"'` ''''''/||||| ||.`|..`\.
+           ./'.||'.|||| ||||||||||||.     .|||||||||||| |||||.`||.`\.
+          /'|||'.|||||| ||||||||||||{     }|||||||||||| ||||||.`|||`\
+         '.|||'.||||||| ||||||||||||{     }|||||||||||| |||||||.`|||.`
+        '.||| ||||||||| |/'   ``\||``     ''||/''   `\| ||||||||| |||.`
+        |/' \./'     `\./         \!|\   /|!/         \./'     `\./ `\|
+        V    V         V          }' `\ /' `{          V         V    V
+        `    `         `               V               '         '    '
+
 
 <!--
 **SarahSyntax/SarahSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
