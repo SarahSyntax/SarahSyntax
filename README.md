@@ -1,7 +1,7 @@
-root@sarahsyntax:~$ whoami
+sarah@sarahsyntax:~$ whoami
 > built by trial and error | iterated
 
-root@sarahsyntax:~$ logout
+sarah@sarahsyntax:~$ logout
 
 
 
