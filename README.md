@@ -1,7 +1,9 @@
 ~$ whoami
 > built by trial and error
 > iterated
+
 ~$ logout
+
 
 
                       _..-'(                       )`-.._
