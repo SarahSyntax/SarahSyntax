@@ -1,8 +1,8 @@
-~$ whoami
+root@sarahsyntax:~$ whoami
 > built by trial and error
 > iterated
 
-~$ logout
+root@sarahsyntax:~$ logout
 
 
 
