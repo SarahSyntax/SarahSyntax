@@ -1,6 +1,6 @@
 ~$ whoami
- > built by trial and error
- > iterated
+> built by trial and error
+> iterated
 
 ~$ logout
 
