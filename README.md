@@ -1,10 +1,3 @@
-sarah@sarahsyntax:~$ whoami
-> built by trial and error && iterated
-
-sarah@sarahsyntax:~$ logout
-
-
-
                       _..-'(                       )`-.._
                    ./'. '||\\.       (\_/)       .//||` .`\.
                 ./'.|'.'||||\\|..    )O O(    ..|//||||`.`|.`\.
